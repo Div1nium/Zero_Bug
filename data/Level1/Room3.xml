@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<jeux>
+    <room id="1">
+        <help>true</help>
+        <startPositionX>800</startPositionX>
+        <startPositionY>540</startPositionY>
+        <startVelocity>150</startVelocity>
+        <keyOrder>-1</keyOrder>
+        <blink>fals</blink>
+        <gravity>250</gravity>
+        <rotation>0</rotation>
+        <image>images/Objects/liquid2.jpg</image>
+        <imageX>500</imageX>
+        <imageY>300</imageY>
+        <imageH>3510</imageH>
+        <imageW>1030</imageW>
+
+
+        <roomFiles>Level1/Room1,Level1/Room2,Level1/Room3,Level/Room21</roomFiles>
+
+
+        /////////////////////////BOX//////////////////////////
+        <platform>
+            <coordinates>450,3810</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>17</numberX>
+            <numberY>1</numberY>
+        </platform>
+
+
+
+        <platform>
+            <coordinates>450,288</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>17</numberX>
+            <numberY>1</numberY>
+        </platform>
+
+        <platform>
+            <coordinates>450,800</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>-9</numberY>
+        </platform>
+        <platform>
+            <coordinates>450,800</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>48</numberY>
+        </platform>
+
+
+        <platform>
+            <coordinates>1480,800</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>-9</numberY>
+        </platform>
+        <platform>
+            <coordinates>1480,800</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>48</numberY>
+        </platform>
+
+
+
+
+        /////////////////////////////////////////////////////////////////
+
+        <spike>
+            <coordinates>514,1000</coordinates>
+            <sprite>Spike.png</sprite>
+            <collision>true</collision>
+            <numberX>8</numberX>
+            <numberY>1</numberY>
+        </spike>
+        <platform>
+            <coordinates>514,1064</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>8</numberX>
+            <numberY>1</numberY>
+        </platform>
+
+        <spike>
+            <coordinates>1200,1000</coordinates>
+            <sprite>Spike.png</sprite>
+            <collision>true</collision>
+            <numberX>4</numberX>
+            <numberY>1</numberY>
+        </spike>
+        <platform>
+            <coordinates>1200,1064</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>4</numberX>
+            <numberY>1</numberY>
+        </platform>
+////////////////////////////////////////////////////
+        <spike>
+            <coordinates>800,1500</coordinates>
+            <sprite>Spike.png</sprite>
+            <collision>true</collision>
+            <numberX>10</numberX>
+            <numberY>1</numberY>
+        </spike>
+        <platform>
+            <coordinates>800,1564</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>10</numberX>
+            <numberY>1</numberY>
+        </platform>
+
+        <spike>
+            <coordinates>514,1500</coordinates>
+            <sprite>Spike.png</sprite>
+            <collision>true</collision>
+            <numberX>2</numberX>
+            <numberY>1</numberY>
+        </spike>
+        <platform>
+            <coordinates>514,1564</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>2</numberX>
+            <numberY>1</numberY>
+        </platform>
+/////////////////////////////////////////////////////////////////
+
+
+        ////////////////////////////////////////
+
+        <spike>
+            <coordinates>800,2000</coordinates>
+            <sprite>Spike.png</sprite>
+            <collision>true</collision>
+            <numberX>10</numberX>
+            <numberY>1</numberY>
+        </spike>
+        <platform>
+            <coordinates>800,2064</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>10</numberX>
+            <numberY>1</numberY>
+        </platform>
+
+        <spike>
+            <coordinates>514,2000</coordinates>
+            <sprite>Spike.png</sprite>
+            <collision>true</collision>
+            <numberX>2</numberX>
+            <numberY>1</numberY>
+        </spike>
+        <platform>
+            <coordinates>514,2064</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>2</numberX>
+            <numberY>1</numberY>
+        </platform>
+
+
+        ///////////////////////////////////////
+
+        <spike>
+            <coordinates>514,2500</coordinates>
+            <sprite>Spike.png</sprite>
+            <collision>true</collision>
+            <numberX>8</numberX>
+            <numberY>1</numberY>
+        </spike>
+        <platform>
+            <coordinates>514,2564</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>8</numberX>
+            <numberY>1</numberY>
+        </platform>
+
+
+
+        ////////////////////////////
+
+        <spike>
+            <coordinates>770,3010</coordinates>
+            <sprite>Spike.png</sprite>
+            <collision>true</collision>
+            <numberX>11</numberX>
+            <numberY>1</numberY>
+        </spike>
+        <platform>
+            <coordinates>770,3074</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>11</numberX>
+            <numberY>1</numberY>
+        </platform>
+
+//////////////////////////////
+
+        <spike>
+            <coordinates>514,3500</coordinates>
+            <sprite>Spike.png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </spike>
+        <platform>
+            <coordinates>514,3564</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </platform>
+
+        /////////////////PLATFORM/////////////////
+
+        <platform>
+            <coordinates>750,605</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>4</numberX>
+            <numberY>1</numberY>
+        </platform>
+        <door>
+            <coordinates>850,510</coordinates>
+            <sprite>DoorOpen.png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>1</numberY>
+            <direction>default</direction>
+        </door>
+
+        <door>
+            <coordinates>1200,3720</coordinates>
+            <sprite>DoorOpen.png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>1</numberY>
+            <direction>default</direction>
+        </door>
+        <platform>
+            <coordinates>1200,3650</coordinates>
+            <sprite>kill.png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>1</numberY>
+            <direction>default</direction>
+        </platform>
+////////////////////////////////////////////////
+
+
+
+
+    </room>
+</jeux>
+
+
+
+
+

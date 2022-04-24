@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<jeux>
+    <level id="1">
+        <startpositionX>600</startpositionX>
+        <startpositionY>0</startpositionY>
+        <startvelocity>600</startvelocity>
+        <keyorder>1</keyorder>
+        <blink>false</blink>
+        <gravity>50</gravity>
+        <rotation>10</rotation>
+
+/////////////////////////BOX//////////////////////////
+        <tile>
+            <coordinates>0,100</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>16</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>0,6443</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>27</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>0,100</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>100</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>1020,100</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>96</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>1020,6187</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>11</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>1723,6187</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>5</numberY>
+        </tile>
+
+
+        /////////////////PLATFORM/////////////////
+
+        <tile>
+            <coordinates>450,605</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>3</numberX>
+            <numberY>1</numberY>
+        </tile>
+        <tile>
+            <coordinates>520,540</coordinates>
+            <sprite>DoorOpen.png</sprite>
+            <collision>true</collision>
+            <numberX>1</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>0,1000</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>300,1500</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>300,2000</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>0,2500</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>0,3000</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>0,3500</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>0,4000</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>0,4500</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+        <tile>
+            <coordinates>0,5000</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+        <tile>
+            <coordinates>0,5500</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+        <tile>
+            <coordinates>0,6000</coordinates>
+            <sprite>BGTile (3).png</sprite>
+            <collision>true</collision>
+            <numberX>7</numberX>
+            <numberY>1</numberY>
+        </tile>
+
+
+
+
+
+    </level>
+</jeux>
+
+
+
+
+
